@@ -15,4 +15,3 @@ This project presents a two-way communication system designed to bridge the comm
 - **Dataset**: Custom sign language video dataset with labeled glosses
 - **Others**: ffmpeg, pandas, sklearn
 
-## 📂 Project Structure
