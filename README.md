@@ -14,8 +14,10 @@ This project presents a two-way communication system designed to bridge the comm
 - **Models Used**: BiLSTM | GRU | Vision Transformer (ViT)
 - **Dataset**: Custom sign language video dataset with labeled glosses
 - **Others**: ffmpeg, pandas, sklearn
-
 ## 🎥 Demo Video
 
-👉 [Click here to watch the demo]([https://example.com/path/to/video.mp4](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cb_en_u4cse21611_cb_students_amrita_edu/ES44BkbNHfdGg4DUX3-UfD8BzHnUeMu_28C7OeRzp8RL_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DqIjDa))
+👉 [Click here to watch the demo on OneDrive](https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cb_en_u4cse21611_cb_students_amrita_edu/ES44BkbNHfdGg4DUX3-UfD8BzHnUeMu_28C7OeRzp8RL_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EQ3GcO)
+
+
+
 
